@@ -113,9 +113,9 @@ const SpotlightPreview = () => {
           Simplify Your Tax Calculations.
         </h1>
         <p className="mt-4 font-normal text-base text-neutral-300 max-w-lg text-center mx-auto">
-          Take the stress out of tax season with our easy-to-use tax calculator. Whether you're an individual filer or a small business owner, our calculator provides quick and accurate results, helping you understand your tax obligations with ease.
+          Take the stress out of tax season with our easy-to-use tax calculator. Whether you are an individual filer or a small business owner, our calculator provides quick and accurate results, helping you understand your tax obligations with ease.
           <br />
-          With our intuitive interface and detailed breakdowns, you'll have peace of mind knowing that your taxes are calculated correctly. Say goodbye to complicated spreadsheets and let our tax calculator do the work for you.
+          With our intuitive interface and detailed breakdowns, you will have peace of mind knowing that your taxes are calculated correctly. Say goodbye to complicated spreadsheets and let our tax calculator do the work for you.
         </p>
       </div>
     </div>
