@@ -44,7 +44,7 @@ export default function Pages() {
       <div className="relative w-full">
         <FloatingNavDemo />
       </div>
-      <SpotlightPreview id="homeSection"/>
+      <SpotlightPreview />
       <div className="flex items-center justify-center bg-[#0E0E10] h-[40rem] rounded-2xl w-full" id="aboutSection">
         <TextRevealCard text="Calculate Your Taxes with Ease" revealText="Get Accurate Results Instantly">
           <TextRevealCardTitle>Simplify Your Tax Calculations</TextRevealCardTitle>
